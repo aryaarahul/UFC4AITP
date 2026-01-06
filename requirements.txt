@@ -1,3 +1,8 @@
 streamlit
-markitdown[all]
+markitdown[all]==0.0.1a4
 requests
+pandas
+openpyxl
+mammoth
+pdfminer.six
+python-pptx
